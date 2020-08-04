@@ -1,1 +1,2 @@
-# e-school
+# Repository Link:
+https://shahnewaz-abid-bubt17.github.io/e-school/
